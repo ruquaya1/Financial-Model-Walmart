@@ -20,6 +20,11 @@ Once we have a good understanding of Walmart’s past and future
 performance, Part Two will help us interpret the company’s financials into 
 a valuation analysis using the methods mentioned previously. 
 
+Income statement: measures profit and loss of a company over a specific period of time
+profit = revenue - expenses
+net income = profit - tax
+
+
  Valuation 
 techniques are based on a summary of the company’s performance.
 
